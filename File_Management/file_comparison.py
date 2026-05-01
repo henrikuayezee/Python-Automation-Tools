@@ -1,8 +1,13 @@
+"""
+Script: file_comparison.py
+Description: Tool for file comparison
+Category: File_Management
+"""
 import json
 import os
 
-image_path = r"C:\Users\henry\Desktop\v1"
-annotation_path = r"C:\Users\henry\Downloads\snf-v1"
+image_path = r"C:/Users/henry/Desktop/New folder/images"
+annotation_path = r"C:/Users/henry/Desktop/New folder/labels"
 
 os.chdir(image_path)
 images = os.listdir()

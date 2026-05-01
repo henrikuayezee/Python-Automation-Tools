@@ -1,0 +1,16 @@
+numpy
+moviepy
+google-cloud
+pandas
+torchvision
+Pillow
+PyPDF2
+torch
+openpyxl
+beautifulsoup4
+xmltodict
+matplotlib
+opencv-python
+tqdm
+requests
+reportlab
